@@ -1,0 +1,4 @@
+1. Read the Wikipedia page : https://en.wikipedia.org/wiki/Static_program_analysis
+2. Read a research paper that documents how to write one. 
+3. Read the blog by deepsource : https://deepsource.io/blog/introduction-static-code-analysis/
+4. Read more on ast generation for Python, C++ and then how to traverse this tree. 
